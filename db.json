@@ -1,14 +1,353 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "products": [
+    {
+      "id": "0752cf4b-a6ce-4054-a677-defda02ec8ab",
+      "name": "Lotion Pencerah Wajah Natural",
+      "price": 120000,
+      "discountedPrice": 87000,
+      "images": [
+        {
+          "large": {
+            "size": 1000,
+            "url": "https://fakeimg.pl/1000/"
+          },
+          "medium": {
+            "size": 500,
+            "url": "https://fakeimg.pl/500/"
+          },
+          "small": {
+            "size": 300,
+            "url": "https://fakeimg.pl/300/"
+          }
+        }
+      ],
+      "variance": [
+        {
+          "label": "size",
+          "values": [
+            "Small (50ml)",
+            "Large (300ml)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b785945a-1a46-4623-a0a3-ee9efbbd7430",
+      "name": "Lotion Pelembab Kulit Natural",
+      "price": 0,
+      "discountedPrice": 0,
+      "images": [
+        {
+          "large": {
+            "size": 1000,
+            "url": "https://fakeimg.pl/1000/"
+          },
+          "medium": {
+            "size": 500,
+            "url": "https://fakeimg.pl/500/"
+          },
+          "small": {
+            "size": 300,
+            "url": "https://fakeimg.pl/300/"
+          }
+        }
+      ],
+      "variance": [
+        {
+          "label": "size",
+          "values": [
+            "Small (50ml)",
+            "Large (300ml)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "67c24546-9cf3-41fb-afe8-92a44dcc885c",
+      "name": "Wajan Ceramic",
+      "price": 0,
+      "discountedPrice": 0,
+      "images": [
+        {
+          "large": {
+            "size": 1000,
+            "url": "https://fakeimg.pl/1000/"
+          },
+          "medium": {
+            "size": 500,
+            "url": "https://fakeimg.pl/500/"
+          },
+          "small": {
+            "size": 300,
+            "url": "https://fakeimg.pl/300/"
+          }
+        }
+      ],
+      "variance": [
+        {
+          "label": "color",
+          "values": [
+            "Black",
+            "Red",
+            "White"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "668e92ed-da03-453b-8c89-25c8bcc7a76e",
+      "name": "Casserole Ceramic",
+      "price": 0,
+      "discountedPrice": 0,
+      "images": [
+        {
+          "large": {
+            "size": 1000,
+            "url": "https://fakeimg.pl/1000/"
+          },
+          "medium": {
+            "size": 500,
+            "url": "https://fakeimg.pl/500/"
+          },
+          "small": {
+            "size": 300,
+            "url": "https://fakeimg.pl/300/"
+          }
+        }
+      ],
+      "variance": [
+        {
+          "label": "color",
+          "values": [
+            "Black",
+            "Red",
+            "White"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "113f179b-9422-45d0-b397-c0e8285ae554",
+      "name": "Multivitamin + Zinc",
+      "price": 0,
+      "discountedPrice": 0,
+      "images": [
+        {
+          "large": {
+            "size": 1000,
+            "url": "https://fakeimg.pl/1000/"
+          },
+          "medium": {
+            "size": 500,
+            "url": "https://fakeimg.pl/500/"
+          },
+          "small": {
+            "size": 300,
+            "url": "https://fakeimg.pl/300/"
+          }
+        }
+      ],
+      "variance": [
+        {
+          "label": "size",
+          "values": [
+            "Small (50gr)",
+            "Large (200gr)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e9e508fa-3f13-4b74-911e-400ae624f2a1",
+      "name": "Hand Sanitizer + Collagen",
+      "price": 0,
+      "discountedPrice": 0,
+      "images": [
+        {
+          "large": {
+            "size": 1000,
+            "url": "https://fakeimg.pl/1000/"
+          },
+          "medium": {
+            "size": 500,
+            "url": "https://fakeimg.pl/500/"
+          },
+          "small": {
+            "size": 300,
+            "url": "https://fakeimg.pl/300/"
+          }
+        }
+      ],
+      "variance": [
+        {
+          "label": "size",
+          "values": [
+            "Small (50ml)",
+            "Large (300ml)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d0eacba7-cf6d-4784-aa3a-a82dcc955289",
+      "name": "Atomic Air Purifier",
+      "price": 390000,
+      "discountedPrice": 290000,
+      "images": [
+        {
+          "large": {
+            "size": 1000,
+            "url": "https://fakeimg.pl/1000/"
+          },
+          "medium": {
+            "size": 500,
+            "url": "https://fakeimg.pl/500/"
+          },
+          "small": {
+            "size": 300,
+            "url": "https://fakeimg.pl/300/"
+          }
+        }
+      ],
+      "variance": [
+        {
+          "label": "color",
+          "values": [
+            "Black",
+            "White"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "47243ed3-9677-499c-973a-f140f5adf7bd",
+      "name": "Smart Sport Band",
+      "price": 280000,
+      "discountedPrice": 240000,
+      "images": [
+        {
+          "large": {
+            "size": 1000,
+            "url": "https://fakeimg.pl/1000/"
+          },
+          "medium": {
+            "size": 500,
+            "url": "https://fakeimg.pl/500/"
+          },
+          "small": {
+            "size": 300,
+            "url": "https://fakeimg.pl/300/"
+          }
+        }
+      ],
+      "variance": [
+        {
+          "label": "color",
+          "values": [
+            "Black",
+            "White",
+            "Grey",
+            "Red",
+            "Blue"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7b4dbda0-db7b-4662-848f-e4af5360c23d",
+      "name": "Smart Refrigerator",
+      "price": 5000000,
+      "discountedPrice": 4500000,
+      "images": [
+        {
+          "large": {
+            "size": 1000,
+            "url": "https://fakeimg.pl/1000/"
+          },
+          "medium": {
+            "size": 500,
+            "url": "https://fakeimg.pl/500/"
+          },
+          "small": {
+            "size": 300,
+            "url": "https://fakeimg.pl/300/"
+          }
+        }
+      ],
+      "variance": [
+        {
+          "label": "color",
+          "values": [
+            "Black",
+            "Grey"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e3285fc3-0c9e-4be4-b427-0b1c208a24dc",
+      "name": "Smart TV",
+      "price": 3200000,
+      "discountedPrice": 3000000,
+      "images": [
+        {
+          "large": {
+            "size": 1000,
+            "url": "https://fakeimg.pl/1000/"
+          },
+          "medium": {
+            "size": 500,
+            "url": "https://fakeimg.pl/500/"
+          },
+          "small": {
+            "size": 300,
+            "url": "https://fakeimg.pl/300/"
+          }
+        }
+      ],
+      "variance": [
+        {
+          "label": "color",
+          "values": [
+            "Black",
+            "Metallic Grey"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "62be1c96-5cad-444e-81bd-69ee0a9cdb1e",
+      "name": "Sofa bed Comfortable",
+      "price": 2200000,
+      "discountedPrice": 1900000,
+      "images": [
+        {
+          "large": {
+            "size": 1000,
+            "url": "https://fakeimg.pl/1000/"
+          },
+          "medium": {
+            "size": 500,
+            "url": "https://fakeimg.pl/500/"
+          },
+          "small": {
+            "size": 300,
+            "url": "https://fakeimg.pl/300/"
+          }
+        }
+      ],
+      "variance": [
+        {
+          "label": "color",
+          "values": [
+            "Black",
+            "Brown",
+            "White",
+            "Maroon",
+            "Light Grey"
+          ]
+        }
+      ]
+    }
+  ]
 }
