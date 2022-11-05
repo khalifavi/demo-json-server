@@ -34,8 +34,8 @@
     {
       "id": "b785945a-1a46-4623-a0a3-ee9efbbd7430",
       "name": "Lotion Pelembab Kulit Natural",
-      "price": 0,
-      "discountedPrice": 0,
+      "price": 58000,
+      "discountedPrice": 40000,
       "images": [
         {
           "large": {
@@ -65,8 +65,8 @@
     {
       "id": "67c24546-9cf3-41fb-afe8-92a44dcc885c",
       "name": "Wajan Ceramic",
-      "price": 0,
-      "discountedPrice": 0,
+      "price": 280000,
+      "discountedPrice": 190000,
       "images": [
         {
           "large": {
@@ -97,8 +97,8 @@
     {
       "id": "668e92ed-da03-453b-8c89-25c8bcc7a76e",
       "name": "Casserole Ceramic",
-      "price": 0,
-      "discountedPrice": 0,
+      "price": 200000,
+      "discountedPrice": 149000,
       "images": [
         {
           "large": {
@@ -129,8 +129,8 @@
     {
       "id": "113f179b-9422-45d0-b397-c0e8285ae554",
       "name": "Multivitamin + Zinc",
-      "price": 0,
-      "discountedPrice": 0,
+      "price": 120000,
+      "discountedPrice": 100000,
       "images": [
         {
           "large": {
@@ -160,8 +160,8 @@
     {
       "id": "e9e508fa-3f13-4b74-911e-400ae624f2a1",
       "name": "Hand Sanitizer + Collagen",
-      "price": 0,
-      "discountedPrice": 0,
+      "price": 70000,
+      "discountedPrice": 55000,
       "images": [
         {
           "large": {
