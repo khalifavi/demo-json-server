@@ -33,20 +33,6 @@
             "size": 300,
             "url": "https://iili.io/pftsPj.webp"
           }
-        },
-        {
-          "large": {
-            "size": 1000,
-            "url": "https://iili.io/pftsPj.webp"
-          },
-          "medium": {
-            "size": 500,
-            "url": "https://iili.io/pftsPj.webp"
-          },
-          "small": {
-            "size": 300,
-            "url": "https://iili.io/pftsPj.webp"
-          }
         }
       ],
       "variance": [
@@ -65,20 +51,6 @@
       "price": 58000,
       "discountedPrice": 40000,
       "images": [
-        {
-          "large": {
-            "size": 1000,
-            "url": "https://iili.io/pftsPj.webp"
-          },
-          "medium": {
-            "size": 500,
-            "url": "https://iili.io/pftsPj.webp"
-          },
-          "small": {
-            "size": 300,
-            "url": "https://iili.io/pftsPj.webp"
-          }
-        },
         {
           "large": {
             "size": 1000,
@@ -274,20 +246,6 @@
             "size": 300,
             "url": "https://iili.io/pft4te.jpg"
           }
-        },
-        {
-          "large": {
-            "size": 1000,
-            "url": "https://iili.io/pft4te.jpg"
-          },
-          "medium": {
-            "size": 500,
-            "url": "https://iili.io/pft4te.jpg"
-          },
-          "small": {
-            "size": 300,
-            "url": "https://iili.io/pft4te.jpg"
-          }
         }
       ],
       "variance": [
@@ -306,20 +264,6 @@
       "price": 390000,
       "discountedPrice": 290000,
       "images": [
-        {
-          "large": {
-            "size": 1000,
-            "url": "https://iili.io/pftkF4.jpg"
-          },
-          "medium": {
-            "size": 500,
-            "url": "https://iili.io/pftkF4.jpg"
-          },
-          "small": {
-            "size": 300,
-            "url": "https://iili.io/pftkF4.jpg"
-          }
-        },
         {
           "large": {
             "size": 1000,
@@ -399,20 +343,6 @@
       "price": 5000000,
       "discountedPrice": 4500000,
       "images": [
-        {
-          "large": {
-            "size": 1000,
-            "url": "https://iili.io/pftZcQ.jpg"
-          },
-          "medium": {
-            "size": 500,
-            "url": "https://iili.io/pftZcQ.jpg/"
-          },
-          "small": {
-            "size": 300,
-            "url": "https://iili.io/pftZcQ.jpg/"
-          }
-        },
         {
           "large": {
             "size": 1000,
